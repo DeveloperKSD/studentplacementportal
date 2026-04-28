@@ -2,7 +2,6 @@
 
 A full-stack student placement portal. Students can register, browse job listings, and apply to placement drives. Companies can post and manage jobs through a dedicated admin dashboard.
 
----
 
 ## Tech Stack
 
